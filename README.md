@@ -1,16 +1,11 @@
-## Hi there 👋
+## Olá! eu sou o Gabriel Ângelo 👋
 
-<!--
-**Gabriel-Angelo712/Gabriel-Angelo712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Atualmente estudo desenvolvimento web com JavaScript
+  
+- 📫 Contacte-me apartir das minhas redes sociais:<br />
+    • E-mail: gabrielangelo200367@gmail.com <br />
+    • Facebook: www.facebook.com/GabrielAngelo712.0
+  
+- 😄 Pronouns: ele/dele
+  
+- ⚡ Fun fact: Apesar de estar acostumado a lidar com código, meu verdadeiro superpoder é concencer um dado de 20 faces a tirar um número alto
