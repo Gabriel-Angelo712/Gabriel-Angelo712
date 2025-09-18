@@ -8,4 +8,4 @@
   
 - 😄 Pronouns: ele/dele
   
-- ⚡ Fun fact: Apesar de estar acostumado a lidar com código, meu verdadeiro superpoder é concencer um dado de 20 faces a tirar um número alto
+- ⚡ Fun fact: Apesar de ser viciado em código, quando não estou a programar, gosto de ler
