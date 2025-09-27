@@ -3,7 +3,6 @@
 - 📚 Atualmente estudo desenvolvimento web com JavaScript
   
 - 📫 Contacte-me apartir das minhas redes sociais:<br />
-    • E-mail: gabrielangelo200367@gmail.com <br />
     • Facebook: www.facebook.com/GabrielAngelo712.0
   
 - 😄 Pronouns: ele/dele
