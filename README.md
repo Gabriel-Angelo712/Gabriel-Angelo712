@@ -9,7 +9,7 @@
 - ⚡ Fun fact: Apesar de ser viciado em código, quando não estou a programar, gosto de ler
 
 <p align="left">
-  💌 Network é a chave! encontre-me em outras plataformas ⤵️
+  ## 💌 Network é a chave! encontre-me em outras plataformas ⤵️
 </p>
 
 <p align="left">
