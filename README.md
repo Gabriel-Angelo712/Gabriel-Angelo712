@@ -8,9 +8,7 @@
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Apesar de ser viciado em código, quando não estou a programar, gosto de ler
 
-<p align="left">
-  ## 💌 Network é a chave! encontre-me em outras plataformas ⤵️
-</p>
+### 💌 Network é a chave! encontre-me em outras plataformas ⤵️
 
 <p align="left">
   <a href="mailto:gabrielangelo200367@gmail.com" title="Gmail">
