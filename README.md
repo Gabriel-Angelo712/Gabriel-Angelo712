@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,javascript,c,mysql,html,css" />
+    <img src="https://skillicons.dev/icons?i=git,javascript,c,mysql,html,css,nodejs" />
   </a>
   <img height="48" src="https://raw.githubusercontent.com/raysan5/raylib/master/logo/raylib_64x64.png" alt="Raylib"/>
 </p>
