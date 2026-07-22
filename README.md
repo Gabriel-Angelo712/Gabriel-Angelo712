@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=GABRIEL%20Angelo&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 ```bash
-git commit -m "15 commits por dia, mal sabes o bem que te fazia!"
+git commit -m "5 commits por dia, mal sabes o bem que te fazia!"
 ```
 </br>
 
