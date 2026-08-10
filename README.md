@@ -1,9 +1,9 @@
-## Olá, meu nome é Gabriel Ângelo! </p>
+## Hello, my name is Gabriel Ângelo! </p>
 </br>
 <img src="https://img.shields.io/static/v1?label=Overview&message=GABRIEL%20Angelo&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 ```bash
-git commit -m "5 commits por dia, mal sabes o bem que te fazia!"
+git commit -m "Five commits a day keeps the bugs away!"
 ```
 </br>
 
@@ -26,7 +26,7 @@ git commit -m "5 commits por dia, mal sabes o bem que te fazia!"
   </table>
 </div>
 
->  Sou simples, apaixonado por tecnologia e pela criação de soluções inovadoras em Desenvolvimento de Software.
+>  I am a simple person, passionate about technology and creating innovative software development solutions.
 
 <br/>
 
