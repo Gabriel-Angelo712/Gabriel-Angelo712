@@ -18,7 +18,7 @@ git commit -m "Five commits a day keeps the bugs away!"
         </a>
       </td>
       <td width="40%" align="center" valign="top" style="padding: 10px; border-left: 2px solid #5BCDEC;">
-        <h3>Minha Stack</h3></br>
+        <h3>My Stack</h3></br>
         <img src="https://skillicons.dev/icons?i=nodejs,js,git,c,mysql,html,css&theme=dark&perline=9" />
         <img height="48" src="https://raw.githubusercontent.com/raysan5/raylib/master/logo/raylib_64x64.png" alt="Raylib"/>
       </td>
