@@ -22,6 +22,8 @@ git commit -m "Five commits a day keeps the bugs away!"
         <img height="48" src="https://cdn.simpleicons.org/n8n" alt="n8n"/>
         &nbsp;&nbsp;
         <img height="48" src="https://cdn.simpleicons.org/trello" alt="Trello" style="margin-left: 10px;"/>
+        &nbsp;&nbsp;
+        <img height="48" src="https://cdn.simpleicons.org/sonarqubeserver" alt="SonarQube"/>
       </td>
     </tr>
   </table>
