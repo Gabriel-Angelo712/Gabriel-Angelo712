@@ -7,8 +7,6 @@ git commit -m "Five commits a day keeps the bugs away!"
 ```
 </br>
 
-![Gabriel Angelo's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-Angelo712&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false)
-
 <div align="center">
   <table>
     <tr>
@@ -21,6 +19,9 @@ git commit -m "Five commits a day keeps the bugs away!"
         <h3>My Stack</h3></br>
         <img src="https://skillicons.dev/icons?i=nodejs,js,git,c,mysql,html,css&theme=dark&perline=9" />
         <img height="48" src="https://raw.githubusercontent.com/raysan5/raylib/master/logo/raylib_64x64.png" alt="Raylib"/>
+        <img height="48" src="https://cdn.simpleicons.org/n8n" alt="n8n"/>
+        &nbsp;&nbsp;
+        <img height="48" src="https://cdn.simpleicons.org/trello" alt="Trello" style="margin-left: 10px;"/>
       </td>
     </tr>
   </table>
